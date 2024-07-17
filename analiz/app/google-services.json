@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387660989482",
+    "project_id": "analiz-a82ec",
+    "storage_bucket": "analiz-a82ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387660989482:android:1ae3e20b5f05e82ae0ef53",
+        "android_client_info": {
+          "package_name": "com.example.analiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA342ifdz-IeY5Ik81uiqKKtrMpaLaabNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
